@@ -19,4 +19,4 @@ Atualmente estou cursando de Análise e Desenvolvimente de Sistemas, almejando s
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bryan)](https://github.com/gustavo-bryan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Bryan)](https://github.com/Gustavo-Bryan/github-readme-stats)
