@@ -9,7 +9,7 @@ Atualmente estou cursando de Análise e Desenvolvimente de Sistemas, almejando s
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gustavo_Bryan)
 <br/>
 
-![gustavo-bryan GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-bryan&show_icons=true&theme=dracula)
+![Gustavo-Bryan GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Bryan&show_icons=true&theme=dracula)
 
 ## Tecnologias estudadas até o momento:
 <div style='display: inline_block'>
